@@ -1,0 +1,2 @@
+# blackOSmagik
+Codes and more
